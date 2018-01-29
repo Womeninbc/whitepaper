@@ -1,4 +1,4 @@
-# drafts
+# white paper
 
 This document is a draft document of the WIBC white paper. 
 
@@ -21,6 +21,16 @@ of holistic solutions.
 
 As an collaboration, we are open to partnering with other organizations
 that help us acheive the purposes outlined above and help us do so more effectively.
+
+This platform is to enable us to draft and contribute to this document constructively.
+
+Please view the tutorial link on how Github works.
+
+If you would like a particular role in the organization, please add yourself under 
+"Team"
+
+Each of us here is present with our own gifts and strengths. Please only suggest
+the changes to the document that you yourself would be willing to enact. 
 
 t.me/womeninbc
 
